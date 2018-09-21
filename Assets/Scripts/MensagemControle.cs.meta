@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 164ff3d82a207df428178fe458bb8a5e
+timeCreated: 1453377895
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameOverTxt: {fileID: 132087860365804814, guid: 3c79dee7c8bd77e4fb7f875632b3b205,
+      type: 2}
+  - restartTxt: {fileID: 132707742668703074, guid: 3f54ab3a0fa9d6b4ca9db1de3e055cb3,
+      type: 2}
+  - venceuTxt: {fileID: 132436818550423068, guid: 4f2ac9b7df76f9849bc7d41ae74dedb7,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
